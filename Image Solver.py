@@ -7,7 +7,6 @@ import tkinter as tk
 from tkinter import PhotoImage
 from tkinter import ttk
 import pygetwindow as gw
-import pygetwindow as gw
 from PIL import Image, ImageGrab
 import os
 
